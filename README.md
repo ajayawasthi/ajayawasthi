@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajayawasthi
 - 👀 I’m interested in learning new technologies.
-- 🌱 I’m currently learning Magento 2
+- 🌱 I’m currently working on Magento 2
 - 💞️ I’m looking to collaborate on Magento 2
 - 📫 I am reachable on ajay.awasthi100@gmail.com
 
